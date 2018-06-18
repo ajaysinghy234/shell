@@ -1,2 +1,0 @@
-hello this is vm git demo txt file
-added some lines
