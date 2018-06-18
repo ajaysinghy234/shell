@@ -1,1 +1,1 @@
-s is file for testing git initialising
+this folder is for making shell scripts and commiting them
